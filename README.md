@@ -1,0 +1,2 @@
+# Udigital
+Only for desktop
